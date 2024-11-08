@@ -1,0 +1,11 @@
+ID;createdAt;createdBy;modifiedAt;modifiedBy;name;description;price
+eaaee7e7-5270-47d5-8bbc-4ba9a2922a81;2024-10-25T17:10:40-0300;createdBy813;2024-10-25T17:10:40-0300;modifiedBy8107;Pizza Margherita;Molho de tomate, mussarela e manjericão;50
+63cb540d-3f3e-4015-9237-fe11d3817081;2024-10-25T17:10:40-0300;createdBy2797;2024-10-25T17:10:40-0300;modifiedBy6502;Pizza Calabresa;Molho de tomate, mussarela e calabresa;60
+fff412b3-4b80-4dda-b6c6-f19a1ec6cfa8;2024-10-25T17:10:40-0300;createdBy8821;2024-10-25T17:10:40-0300;modifiedBy6659;Pizza Quatro Queijos;Molho de tomate, mussarela, gorgonzola, parmesão e provolone;70
+becfe7fb-5981-46df-88cb-8f3d3accbc93;2024-10-25T17:10:40-0300;createdBy3358;2024-10-25T17:10:40-0300;modifiedBy303;Pizza Portuguesa;Molho de tomate, mussarela, presunto, ovo, cebola e azeitona;80
+e8ab6255-ef36-4a18-a975-6257f58fe4da;2024-10-25T17:10:40-0300;createdBy4154;2024-10-25T17:10:40-0300;modifiedBy9905;Pizza Frango com Catupiry;Molho de tomate, mussarela, frango desfiado e catupiry;90
+c9a82436-bd60-412a-a80a-b5a32291c5e6;2024-10-25T17:10:40-0300;createdBy6804;2024-10-25T17:10:40-0300;modifiedBy8497;Pizza Pepperoni;Molho de tomate, mussarela e pepperoni;85
+98ac895d-6470-4b4e-ba6e-de7a0bf595f9;2024-10-25T17:10:40-0300;createdBy4502;2024-10-25T17:10:40-0300;modifiedBy8915;Pizza Napolitana;Molho de tomate, mussarela, tomate e orégano;55
+d5e7abb0-39e4-495b-882f-2d242e81728d;2024-10-25T17:10:40-0300;createdBy7595;2024-10-25T17:10:40-0300;modifiedBy2422;Pizza Vegetariana;Molho de tomate, mussarela e vegetais variados;65
+7e035e79-0da5-4cc4-b78c-e38cc72fa03b;2024-10-25T17:10:40-0300;createdBy6866;2024-10-25T17:10:40-0300;modifiedBy2627;Pizza de Atum;Molho de tomate, mussarela e atum;75
+0dd44b46-8c71-4307-990c-947a0100d7f3;2024-10-25T17:10:40-0300;createdBy7142;2024-10-25T17:10:40-0300;modifiedBy8238;Pizza de Chocolate;Chocolate ao leite e granulado;50
